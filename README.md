@@ -23,3 +23,11 @@ Things you may want to cover:
 
 * ...
 # rubytodolist
+
+Task - string
+Status - string
+Priority - string
+tag - string
+time - int
+complited_at - TimeStamp
+
